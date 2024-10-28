@@ -4,8 +4,6 @@
 
 ## 1. System Overview
 
-## 1. System Overview
-
 ### 1. Client (React Native)
 - **Role**: The React Native app serves as the user-facing application to interact with the system (joining quizzes, submitting answers, viewing the leaderboard).
 - **Communication**: Uses REST API for login, joining quizzes, retrieving quiz information, leaderboard, etc.; uses WebSocket for real-time updates on scores and leaderboard.
@@ -51,8 +49,6 @@
 - The updated leaderboard is sent via WebSocket to all users in the quiz session for instant result display.
 
 ## 3. Technologies and Tools
-
-## Technologies and Tools
 
 ### 1. React Native
 - **Purpose**: React Native is used to build a cross-platform mobile application for iOS and Android, ensuring a consistent user experience.
