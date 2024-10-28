@@ -1,6 +1,6 @@
 # real-time-quiz-system
 
-![diagrams](real-time-quiz-system.png)
+![diagrams](real-time-quiz-system.jpg)
 
 ## 1. System Overview
 
